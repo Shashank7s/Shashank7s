@@ -9,6 +9,10 @@
 - Languages: Python, Java
 - Web: HTML, CSS, JavaScript
 - **Database:** MySQL, DBMS
+  
+### 🌟 Certifications
+- IT Specialist:- Databases[Certiport]
+- Python Training:- [ETHNOTECH Academic Solutions]
 
  🚀 Projects
 
