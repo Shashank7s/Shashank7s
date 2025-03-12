@@ -18,7 +18,8 @@
 
 
 ### 📫 How to Reach Me
-- [GitHub Profile](https://github.com/Shashank7s)
-- [LinkedIn](https://linkedin.com/in/shashu-s7)
 - [Email](manushashank642@gmail.com)
+- [LinkedIn](https://linkedin.com/in/shashu-s7)
+- [GitHub Profile](https://github.com/Shashank7s)
+
 
