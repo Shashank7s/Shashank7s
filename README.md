@@ -1,4 +1,4 @@
-#👋 I'm Shashank S!
+# 👋 I'm Shashank S!
 
  👨‍💻 About Me
 - 💡 I'm passionate about web development, machine learning, and problem-solving.
