@@ -1,13 +1,19 @@
-Hi, I'm Shashank S!
-- 👋 Hi, I’m @Shashank7s
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 I'm Shashank S!
 
-<!---
-Shashank7s/Shashank7s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 👨‍💻 About Me
+- 💡 I'm passionate about web development, machine learning, and problem-solving.
+- 🎓 I'm currently pursuing a B.Tech in Computer Science & Engineering.
+- 🌱 I'm exploring new technologies and improving my coding skills.
+
+ 🛠️ Tech Stack
+- Languages: Python, Java
+- Web: HTML, CSS, JavaScript
+- **Database:** MySQL, DBMS
+
+ 🚀 Projects
+
+
+### 📫 How to Reach Me
+- [GitHub Profile](https://github.com/Shashank7s)
+- [LinkedIn](https://linkedin.com/in/yourusername)
+
