@@ -48,7 +48,7 @@
   <a href="https://linkedin.com/in/shashu-s7" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="manushashank895@gmail.com">
+  <a href="mailto:manushashank895@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
