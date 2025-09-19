@@ -45,7 +45,7 @@
 
 ## 🌟 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/shashu-s7" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:manushashank895@gmail.com">
